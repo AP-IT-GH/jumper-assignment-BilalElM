@@ -91,7 +91,7 @@ public class AgentMovement : Agent
                 Destroy(obstacle);
             }
 
-            EndEpisode();
+
             print(GetCumulativeReward());
         }
     }
