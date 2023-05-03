@@ -1,3 +1,5 @@
+By: Bilal El Makrini and Adrian Moniakowski
+
 # Jumper Assignment Tutorial
 This is a tutorial for a Jumper exercise where a ML-Agent will learn how to jump over a Sphere obstacle and collect a coin Sphere. 
 
